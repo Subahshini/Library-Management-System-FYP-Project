@@ -1,0 +1,2 @@
+# Library-Management-System-FYP-Project
+This project objective is To develop a system database which stores details of member, book, and transaction that can replace the manual library managing system; To justify how to automate the records and maintain the digital user record and To establish the computerized operation of borrowing and managing inventories paperless towards user and the receptionist.
